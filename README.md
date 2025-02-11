@@ -1,4 +1,4 @@
-<h1 align="center">Unit Testing Course with Kotlin</h1>
+<h1 align="center">lgoritmos-sintaxe-kotlin</h1>
 <p align="center">
     <img src="https://developer.android.com/static/codelabs/basic-android-kotlin-compose-first-program/img/840cee8b164c10b.png" width="150">
 </p>
